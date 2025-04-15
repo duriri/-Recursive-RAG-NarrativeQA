@@ -35,3 +35,13 @@ MARKDOWN_SEPARATORS = [
     " ",
     "",
 ]
+
+
+## 📊 **Use Cases**
+✅Preprocessing documents for vector search and RAG
+
+✅Enhancing semantic relevance in chunk-based LLM pipelines
+
+✅Visualizing or evaluating chunking strategies
+
+✅Preparing long-form content like articles, books, or scripts
