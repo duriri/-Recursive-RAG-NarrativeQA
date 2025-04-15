@@ -35,7 +35,7 @@ MARKDOWN_SEPARATORS = [
     " ",
     "",
 ]
-
+```
 
 ## 📊 **Use Cases**
 ✅Preprocessing documents for vector search and RAG
@@ -45,3 +45,10 @@ MARKDOWN_SEPARATORS = [
 ✅Visualizing or evaluating chunking strategies
 
 ✅Preparing long-form content like articles, books, or scripts
+
+
+
+🙋‍♀️ **Author**
+Faeze Abdoli Nejad
+👩‍💻 Master's in AI (NLP & LLMs)
+📢 Telegram: @Ml_duriri – Simplifying AI for Everyone
